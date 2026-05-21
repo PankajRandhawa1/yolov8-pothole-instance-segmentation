@@ -205,7 +205,7 @@ with st.sidebar:
     st.subheader("🔗 Project Link")
 
     st.markdown(
-        "[GitHub Repository](https://github.com/)"
+        "[GitHub Repository](https://github.com/PankajRandhawa1/yolov8-pothole-instance-segmentation)"
     )
 
     st.caption("v1.0.0 | © 2026 RoadSafety AI")
